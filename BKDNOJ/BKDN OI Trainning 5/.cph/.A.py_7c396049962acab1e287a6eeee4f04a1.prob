@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\Code\\Python\\bkdnoj\\BKDN OI Trainning 5\\A.py","tests":[{"id":1661862907743,"input":"3\n0 8\n5 4\n9 1\n19 8\n","output":"19 8"},{"id":1661862917990,"input":"3\n9 1\n1 8\n5 5\n","output":"15 14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\Python\\bkdnoj\\BKDN OI Trainning 5\\A.py","group":"local","local":true}

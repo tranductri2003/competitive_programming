@@ -1,0 +1,10 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "files.associations": {
+        "initializer_list": "cpp",
+        "type_traits": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "xiosbase": "cpp"
+    }
+}

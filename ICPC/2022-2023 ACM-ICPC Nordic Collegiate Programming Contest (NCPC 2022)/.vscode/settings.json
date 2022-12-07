@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "bitset": "cpp",
+        "complex": "cpp",
+        "functional": "cpp",
+        "limits": "cpp",
+        "memory": "cpp",
+        "valarray": "cpp",
+        "array": "cpp",
+        "string": "cpp"
+    }
+}

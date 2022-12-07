@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\Code\\Competitive Programming\\BKDNOJ\\ICPC Chung ket\\A.cpp","tests":[{"id":1665276656924,"input":"9 0 0 18 0 0\n9 0 1 18 0 0\n12 14 52 12 15 30","output":"9 0 0\n8 59 59\n0 0 38"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\Competitive Programming\\BKDNOJ\\ICPC Chung ket\\A.cpp","group":"local","local":true}
