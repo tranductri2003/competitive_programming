@@ -1,0 +1,128 @@
+{
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "workbench.editor.untitled.hint": "hidden",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left",
+        "python.linting.pylintArgs": "--generate-members"
+    },
+    "workbench.colorCustomizations": {
+        "terminal.background": "#231F20",
+        "terminal.foreground": "#D9D8D8",
+        "terminalCursor.background": "#D9D8D8",
+        "terminalCursor.foreground": "#D9D8D8",
+        "terminal.ansiBlack": "#231F20",
+        "terminal.ansiBlue": "#009DDC",
+        "terminal.ansiBrightBlack": "#737171",
+        "terminal.ansiBrightBlue": "#009DDC",
+        "terminal.ansiBrightCyan": "#85CEBC",
+        "terminal.ansiBrightGreen": "#00853E",
+        "terminal.ansiBrightMagenta": "#98005D",
+        "terminal.ansiBrightRed": "#EE2E24",
+        "terminal.ansiBrightWhite": "#FFFFFF",
+        "terminal.ansiBrightYellow": "#ffd204",
+        "terminal.ansiCyan": "#85CEBC",
+        "terminal.ansiGreen": "#00853E",
+        "terminal.ansiMagenta": "#98005D",
+        "terminal.ansiRed": "#EE2E24",
+        "terminal.ansiWhite": "#D9D8D8",
+        "terminal.ansiYellow": "#FFD204"
+    },
+    "tabnine.experimentalAutoImports": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "ponicode.token": "6aa75ee5-9950-4e5a-9024-c44e6c95eab9",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.suggest.preview": true,
+    "code-runner.runInTerminal": true,
+    "C_Cpp.updateChannel": "Insiders",
+    "bracketPairColorizer.depreciation-notice": false,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "codesnap.shutterAction": "copy",
+    "better-comments.tags": [
+        "                    cur[j] = cur[j-1]\r",
+        {
+            "tag": "!",
+            "color": "#FFD204",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "?",
+            "color": "#3498DB",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "//",
+            "color": "#FF33CC",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "todo",
+            "color": "#FF8C00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "*",
+            "color": "#85CEBC",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        }
+    ],
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.enableBell": true,
+    "tabnine.disableFileRegex": [],
+    "tabnine.disableLineRegex": [],
+    "editor.acceptSuggestionOnEnter": "on",
+    "better-comments.highlightPlainText": true,
+    "editor.formatOnSave": true,
+    "cph.general.timeOut": 6000,
+    "timetracker.autostart.autoCreateTimeTrackingFile": true,
+    "timetracker.autostart.autoStartTimeTracking": true,
+    "editor.minimap.enabled": false,
+    "time-tracker.showNextReminder": false,
+    "time-tracker.reminders": "[{\"title\": \"Take a break\",\"intervalMinutes\": 60,\"pauseMinutes\": 0,\"autoPause\": true,\"showCountDown\": true,\"autoStartAfterPause\": true},{\"title\": \"Look at distance\",\"intervalMinutes\": 18,\"pauseMinutes\": 0,\"autoPause\": true,\"showCountDown\": true,\"autoStartAfterPause\": true}]",
+    "workbench.editor.enablePreview": false,
+    "vscode-pets.theme": "beach",
+    "vscode-pets.position": "explorer",
+    "codepal.codeforcesHandle": "tranductri2003",
+    "codepal.compilationLanguage": "python3",
+    "codepal.codeTemplatePath": "D:\\Code\\Competitive Programming\\LEETCODE\\template.py",
+    "terminal.integrated.shellArgs.windows": [
+        "-NoExit",
+        "/c",
+        "chcp.com 65001"
+    ],
+    "explorer.confirmDelete": false,
+    "prettier.arrowParens": "avoid",
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java",
+    },
+    "java.format.enabled": false,
+    "java.format.onType.enabled": false,
+    "workbench.colorTheme": "Visual Studio 2019 Dark",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+}
