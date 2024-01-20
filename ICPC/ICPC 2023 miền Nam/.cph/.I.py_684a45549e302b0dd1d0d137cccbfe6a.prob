@@ -1,0 +1,1 @@
+{"name":"Local: I","url":"d:\\Code\\Competitive Programming\\ICPC\\ICPC 2023 miền Nam\\I.py","tests":[{"id":1697345278311,"input":"4\n2 2 2 2 ","output":"5"},{"id":1697345295698,"input":"5\n1 2 3 4 5","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\Competitive Programming\\ICPC\\ICPC 2023 miền Nam\\I.py","group":"local","local":true}
